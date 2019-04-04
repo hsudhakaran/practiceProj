@@ -7,10 +7,10 @@
   margin: 20px; }
 
 .success {
-  background-color: green; }
+  background-color: lightgreen; }
 
 .warning {
   background-color: orange; }
 
 .error {
-  background-color: red; }
+  background-color: pink; }
